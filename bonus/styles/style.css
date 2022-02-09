@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.container {
+    border: solid 4px black;
+}
+
 .col-xs-1{
     height: 47.5px;
     background-color: rgb(74, 48, 163);
@@ -19,4 +23,32 @@
 
 .brown {
     background-color: rgb(126, 34, 62);
+}
+
+.light-brown {
+    background-color: rgb(166, 30, 57);
+}
+
+.yellow {
+    background-color: rgb(226, 206, 104);
+}
+
+.white {
+    background-color: white;
+}
+
+.black {
+    background-color: black;
+}
+
+.dark-blue {
+    background-color: rgb(12, 46, 157);
+}
+
+.blue {
+    background-color: rgb(35, 114, 220);
+}
+
+.light-blue {
+    background-color: rgb(133, 189, 248);
 }
