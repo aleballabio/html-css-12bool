@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col-xs-1{
+    height: 47.5px;
+    background-color: rgb(74, 48, 163);
+}
+
+.light-ocra {
+    background-color: rgb(222, 155, 101);
+}
+
+.orange {
+    background-color: rgb(208, 99, 61);
+}
+
+.brown {
+    background-color: rgb(126, 34, 62);
+}
