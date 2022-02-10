@@ -19,7 +19,11 @@
 /* Columns */
 
 [class="col-"] {
-    flex: 1 1 100%;
+    flex: 0 0 auto;
+}
+
+.col  {
+    flex: 1 1 0;
 }
 
 .col-xl-1 {
